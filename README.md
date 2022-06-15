@@ -8,4 +8,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект_0. Игра: Угадываем число](https://github.com/Evgen2308/SkillFactory_DST-116/tree/master/project_0)
 * [Проект_1](____)
 
-SkillFactory_homework
+## Ссылка на резюме
