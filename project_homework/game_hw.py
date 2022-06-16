@@ -3,10 +3,10 @@
 import numpy as np
 
 min = 1
-max = 1001
+max = 101
 
 number = np.random.randint(min, max)
-#number = 997
+
 count = 0
 
 while True:
